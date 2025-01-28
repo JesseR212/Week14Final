@@ -1,7 +1,6 @@
 import "./App.css";
-
 import { Button } from "react-bootstrap";
-import TodoList from "./components/TodoList";
+import TodoList from "./components/TodoList.jsx";
 import { defaultTodos } from "./data";
 
 function App() {
